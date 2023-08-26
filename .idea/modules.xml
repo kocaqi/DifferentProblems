@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bin Packing Problem.iml" filepath="$PROJECT_DIR$/Bin Packing Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leet Code And Others.iml" filepath="$PROJECT_DIR$/Leet Code And Others.iml" />
     </modules>
   </component>
 </project>

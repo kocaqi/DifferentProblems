@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bin Packing Problem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bpp/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bpp/Controller.java" afterDir="false" />
+    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="Solution">
+      <change afterPath="$PROJECT_DIR$/src/BinPackingProblem/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bin Packing Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leet Code And Others.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bpp/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinPackingProblem/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bpp/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinPackingProblem/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +46,60 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/EPOKA UNIVERSITY/Bin Packing Problem",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TwoSum.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinPackingProblem.Test" />
+      <module name="Leet Code And Others" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinPackingProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum.Test" />
+      <module name="Leet Code And Others" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Leet Code And Others" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Leet Code And Others" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoSum.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,8 +108,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672927619970</updated>
-      <workItem from="1672927621847" duration="3320000" />
+      <workItem from="1672927621847" duration="3555000" />
+      <workItem from="1673553590032" duration="443000" />
+      <workItem from="1673792995535" duration="161000" />
+      <workItem from="1675881879925" duration="924000" />
+      <workItem from="1676325999553" duration="471000" />
+      <workItem from="1676481420454" duration="191000" />
+      <workItem from="1693030238696" duration="2034000" />
     </task>
+    <task id="LOCAL-00001" summary="Solution">
+      <created>1672931590247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672931590247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution" />
   </component>
 </project>
