@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="Solution">
-      <change afterPath="$PROJECT_DIR$/src/BinPackingProblem/Solution.java" afterDir="false" />
+    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="Update Repository">
+      <change afterPath="$PROJECT_DIR$/src/BinPackingProblem/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TwoSum/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TwoSum/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bin Packing Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leet Code And Others.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bpp/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinPackingProblem/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bpp/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinPackingProblem/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bpp/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinPackingProblem/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.TwoSum.Test">
@@ -114,7 +112,7 @@
       <workItem from="1675881879925" duration="924000" />
       <workItem from="1676325999553" duration="471000" />
       <workItem from="1676481420454" duration="191000" />
-      <workItem from="1693030238696" duration="2034000" />
+      <workItem from="1693030238696" duration="2445000" />
     </task>
     <task id="LOCAL-00001" summary="Solution">
       <created>1672931590247</created>
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672931590247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Repository">
+      <created>1693032855103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693032855103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution" />
+    <MESSAGE value="Update Repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Repository" />
   </component>
 </project>
