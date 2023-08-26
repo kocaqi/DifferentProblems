@@ -1,16 +1,8 @@
-package bpp;
+package BinPackingProblem;
 
-import java.util.*;
+import java.util.LinkedList;
 
-public class Controller {
-
-    public static void main(String[] args) {
-        int[] weights = {7, 5, 2, 3, 5, 8};
-        int capacity = 10;
-        nextFit(weights, capacity);
-        firstFit(weights, capacity);
-    }
-
+public class Solution {
     public static void nextFit(int[] weights, int capacity){
         System.out.println("--Using nextFit() approach--");
         LinkedList<Container> containers = new LinkedList<>();
@@ -59,5 +51,4 @@ public class Controller {
             System.out.println(container.getWeights());
         }
     }
-
 }

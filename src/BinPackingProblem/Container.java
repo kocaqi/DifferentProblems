@@ -1,4 +1,4 @@
-package bpp;
+package BinPackingProblem;
 
 import java.util.ArrayList;
 import java.util.List;
