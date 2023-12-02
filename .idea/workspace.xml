@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="Leet Code 1 - Two Sum">
-      <change afterPath="$PROJECT_DIR$/src/AdventOfCode2023/day01/Calibration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdventOfCode2023/day01/day01input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leet Code And Others.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeAndOthers.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ee509165-29b1-46b5-8309-2dd8330273ab" name="Changes" comment="Advent Of Code 2023 - Day 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +48,7 @@
   <component name="RunManager" selected="Application.Calibration">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EightQueens.App" />
-      <module name="LeetCodeAndOthers" />
+      <module name="DifferentProblems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EightQueens.*" />
@@ -67,7 +61,7 @@
     </configuration>
     <configuration name="Calibration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdventOfCode2023.day01.Calibration" />
-      <module name="LeetCodeAndOthers" />
+      <module name="DifferentProblems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AdventOfCode2023.day01.*" />
@@ -78,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinPackingProblem.Test" />
-      <module name="LeetCodeAndOthers" />
+    <configuration name="LeetCode.TwoSum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TwoSum.Test" />
+      <module name="DifferentProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinPackingProblem.*" />
+          <option name="PATTERN" value="LeetCode.TwoSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum.Test" />
-      <module name="LeetCodeAndOthers" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinPackingProblem.Test" />
+      <module name="DifferentProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoSum.*" />
+          <option name="PATTERN" value="BinPackingProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +102,7 @@
       <list>
         <item itemvalue="Application.Calibration" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.TwoSum.Test" />
+        <item itemvalue="Application.LeetCode.TwoSum.Test" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -134,7 +128,7 @@
       <workItem from="1694111269074" duration="593000" />
       <workItem from="1696263783574" duration="41000" />
       <workItem from="1696263843638" duration="14000" />
-      <workItem from="1701471507084" duration="3688000" />
+      <workItem from="1701471507084" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="Solution">
       <created>1672931590247</created>
@@ -171,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693033069445</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Advent Of Code 2023 - Day 01">
+      <created>1701476122467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701476122468</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +195,7 @@
     <MESSAGE value="Update Workspace" />
     <MESSAGE value="Bin Packing Problem" />
     <MESSAGE value="Leet Code 1 - Two Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet Code 1 - Two Sum" />
+    <MESSAGE value="Advent Of Code 2023 - Day 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent Of Code 2023 - Day 01" />
   </component>
 </project>
